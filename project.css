@@ -1,0 +1,171 @@
+body{
+    width:100%;
+    height:auto;
+    margin: auto;
+}
+
+.maincontainer{
+    background:#3a2c16;
+    height:350px;
+    width:100%;
+}
+.header{
+
+    width: 70%;
+    height: 100px;
+    margin:  0 auto;
+
+
+}
+
+.logo{
+
+    float: left;
+    margin-top: -5px;
+    margin-left: 50px;
+}
+
+.logo h2{
+    display: block;
+    color:lightyellow;
+    font-family: "Helvetica";
+    font-size: 15px;
+
+
+}
+.logo p{
+
+    display:inline;
+    font-family: "Helvetica";
+    font-size: 15px;
+    color: #908c74;
+
+}
+
+a{
+    text-decoration: none;
+    color: #908c74;
+}
+
+.nav li{
+    display: inline-block;
+    list-style:none;
+    float: right;
+    margin-right: 50px;
+    padding: 1px;
+    font-family: "Helvetica";
+    font-size: 15px;
+}
+a:hover{
+    color: aliceblue;
+    font-weight: bolder;
+}
+.nav{
+    width: 60%;
+    float: right;
+}
+ .head_content_one{
+ margin-left: 250px;
+     float:left;
+     width: 350px;
+     height: auto;
+     padding: 0px 20px;
+}
+ .head_content_two{
+    margin-right: 250px;
+
+ }
+.second_container{
+    background: #201b0f;
+    height: 800px;
+    width: 100%;
+}
+ .header{
+     width: 70%;
+     height: 100px;
+     margin: auto;
+ }
+
+ .logo{
+     float: left;
+     margin-top: 5px;
+     margin-left: 80px;
+
+ }
+ .first_image_{
+     margin-left: 280px;
+     float:left;
+     width: 260px;
+     height: auto;
+ }
+ .second_image{
+     float: left;
+     width: 260px;
+     height: auto;
+ }
+ .third_image{
+     margin-top: 2px;
+
+ }
+ .fourth_image{
+     margin-left: 280px;
+     margin-top: 60px;
+     float: left;
+     width: 260px;
+ }
+ .fifth_image{
+     margin-top: 60px;
+     float: left;
+     width: 260px;
+
+ }
+ .sixth_image{
+     margin-top: 68px;
+
+ }
+ .seventh_image{
+     margin-left: 280px;
+     margin-top: 60px;
+     float: left;
+     width: 260px;
+ }
+ .eight_image{
+     margin-top: 60px;
+     float: left;
+     width: 260px;
+
+ }
+ .ninth_image{
+     margin-top: 75px;
+ }
+.third_container{
+    background:#3a2c16;
+    height:400px;
+    width:100%;
+
+}
+.coloumn_1{
+    margin-top:5px;
+
+    margin-left: 280px;
+    float: left;
+    padding: 10px;
+    width: 220px;
+    height: auto;
+
+}
+.coloumn_2{
+    margin-top:-13px;
+    float: left;
+    padding: 30px;
+    width: 220px;
+    height: auto;
+
+}
+.coloumn_3{
+    margin-top:15px;
+    float: left;
+width: 220px;
+
+}
+
